@@ -1,2 +1,3 @@
 Esta é uma linha de texto
 esta é uma segunda linha na master
+terceira linha adicionada
